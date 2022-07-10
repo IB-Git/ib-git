@@ -1,4 +1,4 @@
-### I am a grad student pursuing Computer Science at Queen Mary, aiming to build useful stuff but mostly it's just random stuff.
+### Grad student pursuing Computer Science at Queen Mary, aiming to build useful stuff but mostly it's just random stuff.
 
 
 
@@ -8,11 +8,9 @@ Lotta stuff coming up....
 
 ## Education
 
-#### Masters in Computer Science from Queen Mary Institue of London. 
-Sept 2021 - Sept 2022
+##### Masters in Computer Science from Queen Mary Institue of London. 
 
-#### Bachelors in Computer Application from MIT-WPU. 
-July 2017 - Sept 2020
+##### Bachelors in Computer Application from MIT-WPU. 
 
 ## Connect
 
