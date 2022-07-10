@@ -1,9 +1,10 @@
 # Ishaan Bhatia.
 
-## Student.
+## I am a post grad student at Queen Mary.
 
 
-# Anyways, here's some stuff.
+### Anyways, here's some stuff.
+
 
 ## Projects
 
@@ -15,10 +16,10 @@ Not much
 
 ### Connect
 
-Linkedin: https://www.linkedin.com/in/ishaan-bhatia-959700171
+Linkedin: https://www.linkedin.com/in/ishaan-bhatia-959700171/
 
-Github: https://ib-git.github.io/ib-git/
+Github: https://github.com/IB-Git/
 
-#### Peace.
+Website: https://ib-git.github.io/ib-git/
 
-#### Love.
+#### Peace, Love.
