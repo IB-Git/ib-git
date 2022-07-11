@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning lotta software engineering stuff including ML and Cloud Computing.
 - ⚡ Fun fact: I kinda know more Human Languages than Programming Lanugages.
 
+#### Also, this is my website repository, nothing fancy, basic stuff.
 <!--
 **IB-Git/ib-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
