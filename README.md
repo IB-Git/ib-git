@@ -1,8 +1,9 @@
 ### Hey y'all! 👋
 
-- 🔭 I’m currently working on my own website
+- 🔭 I try to find and build cool stuff most of the time.
 - 🌱 I’m currently learning lotta software engineering stuff including ML and Cloud Computing.
 - ⚡ Fun fact: I kinda know more Human Languages than Programming Lanugages.
+- ☮  
 
 <!--
 **IB-Git/ib-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
