@@ -1,8 +1,8 @@
 ### Hey y'all! 👋
 
-- 🔭 I try to find and build cool stuff most of the time.
-- 🌱 I’m currently learning lotta software engineering stuff including ML and Cloud Computing.
-- ⚡ Fun fact: I kinda know more Human Languages than Programming Lanugages.
+- 🔭 I try to do cool stuff most of the time.
+- 🌱 I’m currently learning lotta Software Engineering stuff including ML and Cloud Computing.
+- ⚡ Fun fact: I kinda know don't like to brag.
 - ☮  
 
 <!--
