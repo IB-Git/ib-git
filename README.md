@@ -1,8 +1,7 @@
 ### Hey y'all! 👋
 
-- 🔭 I try to do cool stuff most of the time.
-- 🌱 I’m currently learning lotta Software Engineering stuff including ML and Cloud Computing.
-- ⚡ Fun fact: I kinda know don't like to brag.
+- 🔭 I make cool stuff most of the time.
+- 🌱 
 - ☮  
 
 <!--
