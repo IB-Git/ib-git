@@ -1,8 +1,7 @@
 ### Hey y'all! 👋
 
 - 🔭 I make cool stuff most of the time.
-- 🌱 
-- ☮  
+- 🌱 ☮  
 
 <!--
 **IB-Git/ib-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
