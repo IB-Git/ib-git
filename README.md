@@ -1,6 +1,6 @@
 ### Hey y'all! 👋
 
-- 🔭 I make cool stuff most of the time.
+- 🔭 I try to put cool stuff here.
 - 🌱 ☮  
 
 <!--
